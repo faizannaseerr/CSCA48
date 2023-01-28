@@ -20,6 +20,6 @@ Abstract data types and data structures for implementing them. Linked data struc
 
 ## Assignments
 
-1)
-2)
-3)
+1) Based on Arrays & Linked Lists (e.g. inserting, deleting, searching)
+2) Based on Binary Search Trees & its functions (e.g. insering, deleting, searching, tree traversals, etc.)
+3) Food recipe program, based on recursive functions & graphs
