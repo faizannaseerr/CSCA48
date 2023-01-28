@@ -2,7 +2,7 @@
 
 This repository contains the assignments & exercises completed for the course entitled "CSCA48: Introduction to Computer Science II" in the Computer Science Department at the University of Toronto.
 
-## Course Overview
+## Course Topics
 
 Abstract data types and data structures for implementing them. Linked data structures. Object Oriented Programming. Encapsulation and information-hiding. Testing. Specifications. Analyzing the efficiency of programs. Recursion.
 
