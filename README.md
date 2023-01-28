@@ -13,9 +13,9 @@ Abstract data types and data structures for implementing them. Linked data struc
 3)
 4)
 5)
-6)
-7)
-8)
+6) Caesar Break - Decode a given message that has been encrypted using Caesar Cipher, using a dictionary attack.
+7) DNA Translate - Includes two functions (one that determines the sequence of amino acids for an input DNA sequence, and one that determines if two sequences use the same number and type of aminoacids (even if they are in different order)).
+8) Soduku - Soduku solver using recursion.
 9) Summer Plans - A short and simple .c program with a single main() function, all it needs to do is tell us about something fun you're planning to do this summer.
 
 ## Assignments
