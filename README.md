@@ -16,7 +16,7 @@ Abstract data types and data structures for implementing them. Linked data struc
 6)
 7)
 8)
-9)
+9) Summer Plans - A short and simple .c program with a single main() function, all it needs to do is tell us about something fun you're planning to do this summer.
 
 ## Assignments
 
